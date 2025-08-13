@@ -20,8 +20,9 @@ UI를 통해 사용자가 이미지를 업로드하면, 분석 결과와 함께 
     Sigmoid 출력: 0.0001
 
     결과: Horse (99.99%)
+    
 
-    ![hores_or_human](https://github.com/user-attachments/assets/0bd08ae9-cc91-445b-81d5-c3ca85adb211)
+![hores_or_human](https://github.com/user-attachments/assets/0bd08ae9-cc91-445b-81d5-c3ca85adb211)
 
 
 ---
