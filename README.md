@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ### 2. 프로그램 실행
 메인 스크립트를 실행합니다.
 
-``bash
+```bash
 python main.py
 ```
 
