@@ -12,8 +12,8 @@ UI를 통해 사용자가 이미지를 업로드하면, 분석 결과와 함께 
 ### 1. 환경 설정
 먼저, 필요한 패키지를 설치합니다.
 
-```
-bash
+```bash
+
 pip install -r requirements.txt
 ```
 
